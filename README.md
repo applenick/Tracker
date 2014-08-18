@@ -1,6 +1,7 @@
-Tracker
+iTracker
 =======
+A fork of Overcast Network's Tracker maintained by AppleNick
 
 Plugin and API for tracking entity damage.
 
-MAINTAINED by AppleNick
+
